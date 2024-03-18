@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: rgb(254, 0, 169);
+    font-family:Verdana;
+}
+
+a{
+    color: rgb(255, 0, 169);
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    background-color: purple;
+    font-size: 1,25rem;
+}
+
